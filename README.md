@@ -2,9 +2,9 @@
 ## Choose the title you want to explore
 
 ---
-title: [Database Management] - Move Database 
-intro: 'How to copy Database between SQL servers'
-product: '{{ optional product callout }}'
+#Title: [Database Management] - Move Database 
+#Intro: 'How to copy Database between SQL servers'
+
 versions:
 ---
 
